@@ -6,6 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Portada</h1>
+    <table>
+    <tr><td></td>
+    <td></td>
+    <td></td>
+    <td></td></tr>
+    <tr><td></td>
+    <td></td>
+    <td></td>
+    <td></td></tr>
+    <tr></tr>
+    <tr></tr></table>
 </body>
 </html>
