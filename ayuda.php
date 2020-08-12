@@ -10,6 +10,17 @@
 </p>
 
 <h1>sddaddsa</h1>
+<<<<<<< HEAD
     <h1>shasdhhdshashsdhdsha</h1>
+=======
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td></tr>
+</table>
+    
+>>>>>>> Prueba_Llenado
 </body>
 </html>
